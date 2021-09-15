@@ -11,8 +11,7 @@
       img(src='@/assets/curso/img8.png', style="width: auto;").m-auto
     .row.bg-color1.px-5
       .col-12
-        p A continuación,  se encontrará lo relacionado con el nuevo marco normativo contable, más exactamente lo referente a las Normas Internacionales de Información Financiera (NIIF), y se mostrará el paso a paso de su implementación.
-        separador.mb-5
+        p.mb-5 A continuación,  se encontrará lo relacionado con el nuevo marco normativo contable, más exactamente lo referente a las Normas Internacionales de Información Financiera (NIIF), y se mostrará el paso a paso de su implementación.
         #t_3_1
         .titulo-segundo
           h2 3.1 Normas NIIF

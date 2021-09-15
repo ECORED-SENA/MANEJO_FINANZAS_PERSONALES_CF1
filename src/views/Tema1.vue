@@ -22,11 +22,10 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/img5.svg', style="width: auto;").m-auto
     .row.bg-color1.px-5
-      .col-12
+      .col-12.mb-4
         figure(data-aos="fade-left")
           img(src='@/assets/curso/img6.svg', style="width: auto;").m-auto
       .col-12
-        separador.mb-5
         #t_1_1
         .titulo-segundo
           h2 1.1 Los presupuestos y la contabilidad

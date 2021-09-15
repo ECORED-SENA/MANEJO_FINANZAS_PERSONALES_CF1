@@ -11,8 +11,7 @@
       img(src='@/assets/curso/img6.png', style="width: auto;").m-auto
     .row.bg-color4.px-5
       .col-12
-        p Dentro de este punto, se tratará  lo relacionado con ingresos, gastos y costos,  conceptos claves a la hora de la elaboración de presupuestos.
-        separador.mb-5
+        p.mb-5 Dentro de este punto, se tratará  lo relacionado con ingresos, gastos y costos,  conceptos claves a la hora de la elaboración de presupuestos.
         #t_2_1
         .titulo-segundo
           h2 2.1 Ingresos

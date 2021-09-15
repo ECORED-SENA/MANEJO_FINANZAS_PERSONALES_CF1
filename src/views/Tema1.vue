@@ -11,16 +11,16 @@
       img(src='@/assets/curso/img1.png', style="width: auto;").m-auto
     p Un presupuesto, en pocas palabras, es un plan que se ejecuta y controla como otras operaciones y actividades de la vida diaria personal y empresarial. Para este caso, el presupuesto se basa en temas financieros, en los ingresos, gastos y ejecución de los mismos.
     p.mb-4 A continuación, se pueden observar las características que debe tener un presupuesto:
-    .row
+    .row.mb-4
       .col-12.d-none.d-xl-block
         figure(data-aos="fade-right")
-          img(src='@/assets/curso/img3.svg', style="width: auto;").m-auto
+          img(src='@/assets/curso/img3.svg', style="width: 1200px;").m-auto
       .col-12.d-lg-block.d-xl-none
         figure(data-aos="fade-right")
-          img(src='@/assets/curso/img4.svg', style="width: auto;").m-auto
+          img(src='@/assets/curso/img4.svg', style="width: 750px;").m-auto
       .col-12.d-lg-block.d-xl-none
         figure(data-aos="fade-right")
-          img(src='@/assets/curso/img5.svg', style="width: auto;").m-auto
+          img(src='@/assets/curso/img5.svg', style="width: 450px;").m-auto
     .row.bg-color1.px-5
       .col-12.mb-4
         figure(data-aos="fade-left")
@@ -30,13 +30,13 @@
         .titulo-segundo
           h2 1.1 Los presupuestos y la contabilidad
         .row.justify-content-center.mb-4
-          .col-lg-5
+          .col-lg-5.mb-4.mb-lg-0
             p Según Sánchez (2019), #[span.bg-color2 “un presupuesto es un plan de operaciones y recursos en una empresa, que se formula para lograr en un cierto periodo los objetivos propuestos y se expresa en términos monetarios”.] En otras palabras, un presupuesto es realizar un plan monetario en el cual se analizan diferentes factores que entran en juego al momento de conseguir una meta específica.
             .cajon.color-primario.p-4
               p Un claro ejemplo de lo anterior es cuando se realiza un viaje, primero se debe definir hacia dónde se quiere ir y cuánto tiempo se va a estar en el sitio elegido. Con dichos datos, es posible comenzar a gestionar la búsqueda de los pasajes, ya sea por tierra, por aire, por barco, etc. También se requiere considerar el lugar de hospedaje y cuantas personas utilizarán el servicio. Así, es posible contabilizar los gastos reales que se necesitan para el viaje y unos gastos extras para imprevistos.
           .col-lg-5
             figure(data-aos="flip-left")
-              img(src='@/assets/curso/img7.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img7.svg', style="width: 400px;").m-auto
         .dual-txt-deco
           p Después de conocer todo lo anterior, se puede saber la cantidad de dinero que se requiere ahorrar para viajar y disfrutar, sin necesidad de endeudarse.
           p.mb-0 Asimismo, el presupuesto es considerado como una herramienta que permite determinar cuáles son los ingresos reales del hogar o empresa y en qué se invierte o se gasta dicho dinero en un lapso de tiempo determinado. Ejemplo: si se requiere saber cómo organizar el sueldo mensual para pagar y cubrir las necesidades básicas del hogar, se hace por medio de un presupuesto, que arroja la información para determinar los gastos que deben hacerse, por qué razón, cuánto es el porcentaje de inversión frente a cada gasto y si hay exceso en alguno de ellos, para poder realizar los análisis y, si es el caso, hacer los ajustes en los momentos pertinentes.
@@ -60,7 +60,7 @@
     .row.justify-content-center
       .col-lg-8.mb-5
         p.mb-0 En resumen, se elabora un presupuesto, cada año, como si se realizara por primera vez, evaluándose lo asignado, lo ajustado, y definiendo la cantidad de recursos que se necesita para llevar a cabo todos los programas y planes de la organización.
-      .col-10
+      .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Objetivos del PBC
         figure(data-aos="fade-left")
@@ -86,7 +86,7 @@
                 p #[b Privados]: “los elaboran las empresas particulares, quienes primero estiman sus ingresos y después establecen cómo gastar”. (Alonso, 2020)
           .col-lg-5
             figure
-              img(src='@/assets/curso/img2.png', style="width: auto;").m-auto
+              img(src='@/assets/curso/img2.png', style="width: 400px;").m-auto
         .row.align-items-center.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             h4 En función de su contenido
@@ -100,7 +100,7 @@
                 p #[b Auxiliares]: “Se muestran las operaciones estimadas de cada uno de los departamentos de la empresa, es decir, forman parte del presupuesto principal.” (Alonso, 2020)
           .col-lg-5
             figure
-              img(src='@/assets/curso/img3.png', style="width: auto;").m-auto
+              img(src='@/assets/curso/img3.png', style="width: 400px;").m-auto
         .row.align-items-center.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             h4 En función de su duración
@@ -114,7 +114,7 @@
                 p #[b A largo plazo]: si abarca más de un año.
           .col-lg-5
             figure
-              img(src='@/assets/curso/img4.png', style="width: auto;").m-auto
+              img(src='@/assets/curso/img4.png', style="width: 400px;").m-auto
         .row.align-items-center.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             h4 En función de la técnica de elaboración
@@ -128,7 +128,7 @@
                 p #[b Estándar]: “Estos presupuestos se elaboran sobre bases científicas y mediante estudios estadísticos, por lo que el porcentaje de error se reduce significativamente y representan los resultados que se deben obtener”. (Alonso, 2020)
           .col-lg-5
             figure
-              img(src='@/assets/curso/img5.png', style="width: auto;").m-auto
+              img(src='@/assets/curso/img5.png', style="width: 400px;").m-auto
     separador.mb-5
     #t_1_4
     .titulo-segundo
@@ -175,10 +175,10 @@
     .row.bg-color4.px-5
       .col-12
         .row.align-items-center.mb-5
-          .col-lg-6.mb-4.mb-lg-0
+          .col-lg-5.mb-4.mb-lg-0
             figure(data-aos="flip-right")
-              img(src='@/assets/curso/img13.svg', style="width: auto;").m-auto
-          .col-lg-6
+              img(src='@/assets/curso/img13.svg', style="width: 350px;").m-auto
+          .col-lg-7
             p.mb-4 Según postulados de Pérez y Merino (2013), se entiende por presupuesto público aquel documento que contiene los ingresos del Estado, los cuales serán utilizados para el pueblo y deben ser controlados por medio de leyes.
             .cajon.color-primario.p-4
               p.mb-0 Se conoce como presupuesto público a la estimación de gastos de un poder estatal para un periodo determinado. Este documento menciona la cifra de gastos que el Estado prevé asumir y los ingresos que espera obtener en el ejercicio en cuestión. La elaboración del presupuesto público está regulada por una ley. De este modo, se espera que el gobierno de turno no pueda cometer abusos con el dinero público. (Pérez y Merino, 2013).
@@ -200,7 +200,7 @@
                 p.ms-3.mt-3.pb-3(style="border-bottom: 1px solid gray;") #[b Principio de especialidad]: este principio va encaminado a establecer que los presupuestos determinados se utilicen para los objetivos planteados y no para otros gastos.
           .col-lg-6
             figure(data-aos="flip-left")
-              img(src='@/assets/curso/img14.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img14.svg', style="width: 350px;").m-auto
         p.mb-0 Los recursos de capital, los ingresos corrientes y la disponibilidad inicial son los tres ejes que se delimitan en el apartado de los ingresos. Los gastos, por su parte, están conformados por una serie de elementos que permiten que este apartado funcione, los cuales son: la inversión, el funcionamiento, la operación, el servicio de deuda o la disponibilidad final. En síntesis, el presupuesto público consiste en una previsión de aquellos ingresos que hacen parte del Estado y que por ende se van a destinar a un objetivo específico, esto quiere decir que dicho presupuesto plasma los ingresos y a dónde se destinarán los mismos. Todos los recursos que se fijan por medio de leyes tributarias, como los impuestos y las tasas, hacen parte de esos ingresos previstos del presupuesto. Mientras que las inversiones y los servicios en pro de la comunidad y los habitantes son parte de aquellos gastos que se realizan con el presupuesto público.
         
 </template>

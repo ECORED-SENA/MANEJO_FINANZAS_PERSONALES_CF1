@@ -28,7 +28,7 @@
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/img36.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img36.svg', style="width: 250px;").m-auto
           .col-lg-8
             h4 Paso 1
             ul.lista-ul
@@ -38,7 +38,7 @@
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/img37.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img37.svg', style="width: 250px;").m-auto
           .col-lg-8
             h4 Paso 2
             ul.lista-ul
@@ -51,7 +51,7 @@
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/img38.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img38.svg', style="width: 250px;").m-auto
           .col-lg-8
             h4 Paso 3
             ul.lista-ul
@@ -64,7 +64,7 @@
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/img39.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img39.svg', style="width: 250px;").m-auto
           .col-lg-8
             h4 Paso 4
             ul.lista-ul
@@ -77,7 +77,7 @@
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/img40.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img40.svg', style="width: 250px;").m-auto
           .col-lg-8
             h4 Paso 5
             ul.lista-ul
@@ -90,7 +90,7 @@
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/img41.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img41.svg', style="width: 250px;").m-auto
           .col-lg-8
             h4 Paso 6
             ul.lista-ul
@@ -103,7 +103,7 @@
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/img42.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img42.svg', style="width: 250px;").m-auto
           .col-lg-8
             h4 Paso 7
             ul.lista-ul
@@ -116,7 +116,7 @@
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/img43.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img43.svg', style="width: 250px;").m-auto
           .col-lg-8
             h4 Paso 8
             ul.lista-ul
@@ -129,7 +129,7 @@
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/img44.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img44.svg', style="width: 250px;").m-auto
           .col-lg-8
             h4 Paso 9
             ul.lista-ul

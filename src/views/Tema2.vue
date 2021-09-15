@@ -56,7 +56,7 @@
             .row.align-items-center.mb-4
               .col-lg-6.mb-4.mb-lg-0
                 figure(data-aos="flip-left")
-                  img(src='@/assets/curso/img7.png', style="width: auto;").m-auto
+                  img(src='@/assets/curso/img7.png', style="width: 400px;").m-auto
               .col-lg-6
                 ul.lista-ul--separador
                   li 
@@ -192,7 +192,7 @@
             .h5.mb-0 Gonzalo, 2003
       .col-lg-5
         figure(data-aos="fade-right")
-          img(src='@/assets/curso/img29.svg', style="width: auto;").m-auto
+          img(src='@/assets/curso/img29.svg', style="width: 450px;").m-auto
     .dual-txt-deco
       p Aquellos gastos que surgen de la actividad ordinaria incluyen, entre otros, el costo de las ventas, los salarios y la depreciación; usualmente, toman la forma de una salida o disminución del valor de los activos, tales como efectivo y equivalente al efectivo, inventarios o propiedades, planta y equipo. El costo de venta no desaparece con la entrada en vigencia de las Normas Internacionales de Información Financiera, o mejor conocidas como NIIF, pese a que las traducciones de los estándares internacionales no incorporan la palabra “costo”, pero sí utilizan la palabra “gasto”. Esto solo obedece a una interpretación lingüística de una palabra del idioma inglés “expense”, que puede traducirse como “consumo” o “gasto”. Frente a los inventarios, debe entenderse como consumo o gasto de los inventarios destinados para la venta, que no es otra cosa que el tradicional “costo de venta”.
     figure(data-aos="fade-left")
@@ -306,13 +306,13 @@
     #t_2_3
     .titulo-segundo
       h2 2.3 Costos y clases
-    .row.align-items-center.justify-content-center.mb-5
-      .col-lg-5.mb-4.mb-lg-0
+    .row.align-items-end.justify-content-center.mb-5
+      .col-lg-5
         .dual-txt-deco1
           p El costo es el esfuerzo económico que se debe realizar para lograr un objetivo operativo (el pago de salarios, la compra de materiales, la fabricación de un producto, la obtención de fondos para la financiación, la administración de la empresa, etc.).
       .col-lg-5
         figure(data-aos="fade-right")
-          img(src='@/assets/curso/img31.svg', style="width: auto;").m-auto
+          img(src='@/assets/curso/img31.svg', style="width: 350px;").m-auto
     h4 Clases de costos
     .row.justify-content-center
       .col-12.d-none.d-xl-block

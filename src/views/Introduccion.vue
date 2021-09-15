@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    figure.mb-4
+    figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.bg-color1.px-5
@@ -21,7 +21,7 @@
               p Es importante tener en cuenta que, si en la vida personal se lleva una salud financiera presupuestando, ejecutando y tomando acciones de mejora, será posible crecer integralmente y mejorar nuestra calidad de vida.
           .col-lg-6
             figure(data-aos="flip-right")
-              img(src='@/assets/curso/img1.svg', style="width: auto;").m-auto
+              img(src='@/assets/curso/img1.svg', style="width: 450px;").m-auto
         p.mb-0 Para la elaboración de este componente, se abordaron varios autores conocidos en presupuestos, ingresos y gastos, de quienes se han citado y referenciado conceptos y ejemplos para los fines educativos de esta materia, en el entendido de que el conocimiento es social y, por lo tanto, es para ser usado por quienes necesitan adquirirlo. Se espera que este documento sea útil para todos aquellos, aprendices y lectores en general, que estén interesados en acercarse a asuntos básicos de la elaboración del presupuesto para el manejo de las finanzas personales.
 
 </template>

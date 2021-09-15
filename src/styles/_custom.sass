@@ -1,16 +1,95 @@
 .banner-principal__row .banner-principal__img
   padding-top: 0px !important
   padding-bottom: 0px !important
-  //margin-right: -138px
+  margin-right: -139px
   margin-top: auto
 
 @media screen and ( max-width: 1400px )
   .banner-principal__row .banner-principal__img
-    margin-right: -64px
+    margin-right: -65px
 
 @media screen and ( max-width: 1200px )
   .banner-principal__row .banner-principal__img
-    margin-right: -64px
+    margin-right: -65px
+
+.dual-txt-deco
+  position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: -10px
+    left: -10px
+    width: 40%
+    height: 40%
+    background-color: #C4E7F1
+    z-index: 0
+  &::after
+    content: ""
+    position: absolute
+    bottom: -10px
+    right: -10px
+    width: 40%
+    height: 40%
+    background-color: #E0E0E0
+    z-index: 0
+  p 
+    position: relative
+    z-index: 1
+
+.dual-txt-deco1
+  position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: -10px
+    left: -10px
+    width: 40%
+    height: 40%
+    background-color: #C4E7F1
+    z-index: 0
+  p 
+    position: relative
+    z-index: 1
+
+.cajon.color-primario
+  background-color: #CDD0D4
+
+.cajon.color-primario::before
+  background-color: #3B4454
+
+.tarjeta-avatar > img
+  top: -26px
+  width: 200px
+
+.tarjeta.color-primario
+  background-color: white
+  background-image: url(../assets/curso/img10.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.tarjeta--azul
+  background-color: white
+  background-image: url(../assets/curso/img12.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+.tarjeta--verde
+  background-color: white
+  background-image: url(../assets/curso/img26.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+tr, td, th
+  vertical-align: top
+
+.tabla-a.color-acento-contenido thead
+  border-color: #3B4454
+
+.bloque-texto-d.color-secundario::before
+  background-color: #DFF3F8
+
+.tarjeta--gris
+  background-color: #D8F6FF
 
 .bg-color1
   background-image: url(../assets/curso/img2.svg)
@@ -19,8 +98,27 @@
   background-size: contain
   background-position: right bottom
 
-.cajon.color-primario
-  background-color: #CDD0D4
+.bg-color2
+  background-color: #C8EFFA
+  padding: 3px
 
-.cajon.color-primario::before
-  background-color: #3B4454
+.bg-color3
+  border-bottom: 1px solid gray
+
+.bg-color4
+  background-image: url(../assets/curso/img19.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: left bottom
+
+.bg-color5
+  background-color: white
+  padding: 40px
+  border-radius: 20px
+
+.bg-color6
+  background-image: url(../assets/curso/img26.svg)
+  margin-inline: -3.2rem !important
+  background-repeat: no-repeat
+  background-size: cover

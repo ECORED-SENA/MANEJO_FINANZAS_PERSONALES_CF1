@@ -146,141 +146,156 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Alonso, M. (2020). ¿Qué es un presupuesto? Conoce los tipos de presupuesto y ejemplos para su cálculo. Gestion.org. ',
+      link: 'https://www.gestion.org/que-es-un-presupuesto/',
+    },
+    {
+      referencia:
+        'Banco Central del Paraguay. (2015, 20 marzo). Qué es un presupuesto y cómo se elabora [Video]. YouTube. ',
+      link: 'https://www.youtube.com/watch?v=urfwMXPDJVo',
+    },
+    {
+      referencia:
+        'Barnes, G. (2015). Presupuesto base cero. Metodología. Centro de Estudios de las Finanzas Públicas. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://www.cefp.gob.mx/difusion/evento/2015/forobasecero/presentaciones/p202.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Cámara de Comercio de Bogotá. (2014, 14 febrero). Normas Internacionales de Contabilidad y de Información Financiera (NIIF) [Video]. YouTube. ',
+      link: 'https://youtu.be/LvBRWBLmwMo',
+    },
+    {
+      referencia:
+        'Gonzalo, J. (2003). Principales cambios que suponen las Normas Internacionales de Información Financiera (NIIF) respecto al Plan General de Contabilidad. Universidad de Alcalá. ',
+    },
+    {
+      referencia:
+        'Jaramillo, M. (2021). Flujo de efectivo versus flujo de caja: ¿Cuál es la diferencia? Nubox. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://blog.nubox.com/empresas/flujo-de-efectivo-vs-flujo-de-caja',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Martinez, J. (2016). El Presupuesto personal o familiar. Tipos de ingresos. inbestMe. ',
+      link: 'https://www.inbestme.com/blog/el-presupuesto-ingresos/',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Pérez, J. y Merino, M. (2013). Definición de presupuesto público. Definición.de. ',
+      link: 'https://definicion.de/presupuesto-publico/',
+    },
+    {
+      referencia: 'Rus, E. (2020). Investigación científica. Economipedia. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://economipedia.com/definiciones/investigacion-cientifica.html',
+    },
+    {
+      referencia: 'Sánchez, L. (2021). ¿Qué es un presupuesto? Emprende Pyme. ',
+      link: 'https://www.emprendepyme.net/que-es-un-presupuesto.html',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Superintendencia de Bancos Guatemala. (2014, 11 septiembre). El presupuesto [Video]. YouTube. ',
+      link: 'https://www.youtube.com/watch?v=PmTaaLFSMVg',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Varón, L. (2013). Conjunto completo de Estados Financieros. Gerencie.com. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.gerencie.com/conjunto-completo-de-estados-financieros.html',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Contabilidad',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'sistema de control y registro de los gastos e ingresos y demás operaciones económicas que realiza una empresa o entidad.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Conjunto de estados financieros',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Según Leonardo Varón (2013), los estados financieros que conforman el conjunto completo, de acuerdo con las NIIF, es decir, la totalidad de estados financieros que se deben elaborar y presentar bajo NIIF, y se clasifican en:<br>Estado de Situación Financiera al final del periodo<br>Estado de Resultado Integral del periodo<br>Estado de Cambios en el Patrimonio del periodo<br>Estado de Flujo de Efectivo del periodo<br>Estado de Revelaciones del periodo',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Devengo',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'principio contable y financiero que establece que los hechos económicos deben reconocerse en el momento en que ocurren, independientemente de su pago.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Estados financieros',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'representación estructurada de la situación financiera, el rendimiento financiero y los flujos de efectivo de la Compañía',
     },
     {
-      termino: 'Moda',
+      termino: 'Estimación',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Son partidas de los estados financieros que no pueden ser cuantificadas con precisión; corresponde a la valoración de activos y pasivos que se produce tras la evaluación de la situación actual del elemento, así como de los beneficios futuros esperados y de las obligaciones asociadas con los activos y pasivos correspondientes. Los cambios y las estimaciones contables son el resultado de una nueva información o de un nuevo acontecimiento, en consecuencia, no son corrección de errores. El efecto de una estimación contable será reconocido respectivamente incluyéndose en el resultado:<br>Del periodo en que tiene lugar el cambio, si este afecta solo ese periodo.<br>Del periodo del cambio y periodos futuros, si el cambio afecta a todos ellos.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Gastos',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'decrementos en los beneficios económicos producidos a lo largo del periodo contable, en forma de salidas o disminuciones del valor de los activos, o bien por la generación o aumento de los pasivos que dan como resultado decrementos en el patrimonio.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Impuesto a las ganancias',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'comprende todos los tributos basados en ganancias fiscales.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Impuesto corriente',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'es el valor a pagar (recuperar) por el impuesto sobre las ganancias, relativo a la ganancia (pérdida) fiscal de periodos futuros.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Impuesto diferido',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'es el valor a pagar (recuperar) por el impuesto sobre las ganancias, relativo a la ganancia (pérdida) fiscal del ejercicio.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Ingreso',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'incremento en los beneficios económicos producidos a lo largo del periodo sobre el que se informa, que da como resultado aumento del patrimonio. No está relacionado con los aportes de los socios.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Pasivo',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'obligación presente de la compañía, surgida a raíz de sucesos pasados, a cuyo vencimiento y para cancelarla se espera desprenderse de recursos que conllevan beneficios económicos.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Patrimonio',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Participación residual en los activos de la compañía, una vez deducidos todos los pasivos.  El patrimonio está formado por el conjunto de bienes, derechos y obligaciones pertenecientes a la Compañía, y que constituyen los medios económicos y financieros a través de los cuales esta puede cumplir con sus fines sociales.',
+    },
+    {
+      termino: 'Valor razonable',
+      significado:
+        'Significa el precio por el que puede ser adquirido un activo o pagado un pasivo, entre partes interesadas, debidamente informadas, en una transacción en condiciones de libre competencia. Es preferiblemente calculado en referencia a un mercado activo fiable; el precio de cotización en un mercado activo es la mejor referencia del valor razonable.',
+    },
+    {
+      termino: 'Valor realizable',
+      significado:
+        'Los activos se registran al valor presente descontando las entradas de efectivo netas futuras que se espera genere la partida en el curso normal de la operación. Los pasivos se registran al valor presente, descontando las salidas netas de efectivo que se espera necesitar para pagar el pasivo, en el curso normal de las operaciones.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        'Banco Central del Paraguay. (2015, 20 marzo). Qué es un presupuesto y cómo se elabora [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=urfwMXPDJVo',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Superintendencia de Bancos Guatemala. (2014, 11 septiembre). El presupuesto [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=PmTaaLFSMVg',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'Cámara de Comercio de Bogotá. (2014, 14 febrero). Normas Internacionales de Contabilidad y de Información Financiera (NIIF) [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/LvBRWBLmwMo',
     },
   ],
   creditos: {
@@ -296,7 +311,27 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jhon Jairo Villamizar Mora',
+        cargo: 'Experto temático',
+        centro: 'Centro de la Industria, la Empresa y los Servicios. CIES.',
+      },
+      {
+        nombre: 'Claudia Milena Hernández Naranjo',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de gestión industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
       },
     ],
     desarrolloProducto: [
@@ -304,43 +339,48 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Sandra Carolina Duran Lopez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jhon Jairo Urueta Alvarez',
+        cargo: 'Desarrollo Front-End',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Nombre',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

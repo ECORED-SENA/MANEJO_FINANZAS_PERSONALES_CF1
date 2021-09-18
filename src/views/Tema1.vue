@@ -22,14 +22,17 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/img5.svg', style="width: 450px;").m-auto
     .row.bg-color1.px-5
-      .col-12.mb-4
-        figure(data-aos="fade-left")
-          img(src='@/assets/curso/img6.svg', style="width: auto;").m-auto
       .col-12
+        .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
+          .col-1.d-flex
+            figure
+              img(src='@/assets/curso/img6.svg',).img-style1.m-auto
+          .col-8.bg-color7
+            p.mb-0 Es de anotar que, dentro de una organización o de una empresa familiar, los presupuestos deben ajustarse a las normas contables mínimas; en el caso de las empresas, a las Normas Internacionales de Información Financiera NIIF, las cuales regulan el nuevo marco normativo contable en el país.
         #t_1_1
         .titulo-segundo
           h2 1.1 Los presupuestos y la contabilidad
-        .row.justify-content-center.mb-4
+        .row.justify-content-center.align-items-center.mb-5
           .col-lg-5.mb-4.mb-lg-0
             p Según Sánchez (2019), #[span.bg-color2 “un presupuesto es un plan de operaciones y recursos en una empresa, que se formula para lograr en un cierto periodo los objetivos propuestos y se expresa en términos monetarios”.] En otras palabras, un presupuesto es realizar un plan monetario en el cual se analizan diferentes factores que entran en juego al momento de conseguir una meta específica.
             .cajon.color-primario.p-4
@@ -60,7 +63,7 @@
     .row.justify-content-center
       .col-lg-8.mb-5
         p.mb-0 En resumen, se elabora un presupuesto, cada año, como si se realizara por primera vez, evaluándose lo asignado, lo ajustado, y definiendo la cantidad de recursos que se necesita para llevar a cabo todos los programas y planes de la organización.
-      .col-lg-10
+      .col-12
         .titulo-sexto.color-acento-contenido
           h5 Objetivos del PBC
         figure(data-aos="fade-left")
@@ -134,14 +137,16 @@
     .titulo-segundo
       h2 1.4 Diferencia entre presupuestos, flujos de caja y flujo de efectivo
     p.mb-5 Según Jaramillo (2021), un presupuesto, un flujo de caja y un flujo de efectivo se diferencian en lo siguiente:
+    .titulo-sexto.color-acento-contenido
+      h5 Tabla 1. Diferencia entre presupuesto, flujo de caja y flujo de efectivo
     .tabla-a.color-acento-botones
       table
         caption Nota. Datos tomados de Jaramillo (2021).
         thead
           tr
-            th Presupuesto
-            th Flujo de caja
-            th Flujo de efectivo
+            th.text-white Presupuesto
+            th.text-white Flujo de caja
+            th.text-white Flujo de efectivo
         tbody
           tr
             td 

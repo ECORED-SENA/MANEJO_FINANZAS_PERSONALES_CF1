@@ -15,8 +15,14 @@
         #t_3_1
         .titulo-segundo
           h2 3.1 Normas NIIF
-        figure(data-aos="fade-right")
-          img(src='@/assets/curso/img35.svg', style="width: auto;").m-auto
+        .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
+          .col-1.d-flex
+            figure
+              img(src='@/assets/curso/img35.svg',).img-style1.m-auto
+          .col-8.bg-color11
+            p.mb-0 De una manera general, las NIIF son el compilado de normas que establecen los diferentes requerimientos de medición, reconocimiento y presentación de las diferentes operaciones desarrolladas por un ente económico y cuyo objetivo es darlas a conocer de una manera clara a un determinado usuario final, con base en su importancia y relevancia para este usuario. Su aplicación recae sobre los estados financieros de propósito general.
+        figure.mb-5
+          img(src='@/assets/curso/img9.png', style="width: 650px").m-auto
         p El Consejo Técnico de la Contaduría estableció en su documento de direccionamiento estratégico, actualizado el pasado mes de diciembre, tres grandes grupos de usuarios para la aplicación de manera diferencial de las NIIF. Asimismo, el Gobierno Nacional decretó cuál sería el régimen de aplicación para cada uno de estos grupos.
     separador.mb-5
     #t_3_2
@@ -143,8 +149,8 @@
                 i.fas.fa-caret-square-right(style="color: #CA4F4E")
                 p.mb-0 Capacitar en los estándares internacionales a los empleados de la compañía que tengan relación con el tema, en lo de su competencia.
     .titulo-sexto.color-acento-contenido
-      h5 Tabla 3. Reconocimiento de ingresos #2
-    .tabla-a.color-acento-contenido
+      h5 Tabla 4. NIIF para las pymes
+    .tabla-a.color-acento-botones
       table
         thead
           tr(style="background-color: #3B4454;")
@@ -208,7 +214,7 @@
             td Inventarios
             td Inventarios
           tr(style="background-color: #FFFFFF;")
-            td Activo, Pasivo
+            td Activo
             td 16
             td Propiedades de inversión
             td(rowspan="2") Propiedades, planta y equipo

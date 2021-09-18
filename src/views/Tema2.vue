@@ -22,12 +22,24 @@
             p.mb-5 Martínez (2016) identifica tres tipos de ingresos, clasificados desde su origen en:
             .titulo-sexto.color-acento-contenido
               h5 Tipos de ingresos
-            figure(data-aos="fade-left")
-              img(src='@/assets/curso/img20.svg', style="width: auto;").m-auto
-            figure(data-aos="fade-right")
-              img(src='@/assets/curso/img21.svg', style="width: auto;").m-auto
-            figure.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/img22.svg', style="width: auto;").m-auto
+            .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
+              .col-1.d-flex
+                figure
+                  img(src='@/assets/curso/img20.svg',).img-style2.m-auto
+              .col-8.bg-color8
+                p.mb-0 #[b Fijos]: Son las entradas de dinero percibidas por las personas de manera regular, con una periodicidad y en una magnitud constante. Por ejemplo: salarios, pensiones, subsidios, arrendamientos de bienes raíces. Estos se ven usualmente en periodos mensuales o quincenales.
+            .row.justify-content-center.align-items-center(data-aos="fade-left").mb-5
+              .col-8.bg-color9
+                p.mb-0 #[b Variables]: En esta categoría se encuentran aquellos ingresos que no son recurrentes en forma periódica o no tienen una magnitud constante. Por ejemplo: horas extras, comisiones por ventas, bonificaciones, contratos de prestaciones de servicios, utilidades de un negocio en el que se invirtió, entre otros.  Una de las principales características de estos ingresos es la incertidumbre.
+              .col-1.d-flex
+                figure
+                  img(src='@/assets/curso/img21.svg',).img-style3.m-auto
+            .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
+              .col-1.d-flex
+                figure
+                  img(src='@/assets/curso/img22.svg',).img-style2.m-auto
+              .col-8.bg-color8
+                p.mb-0 #[b Esporádicos]: Estos ingresos comparten características con los ingresos fijos, la diferencia más importante es el tiempo de estos, ya que no comparten los mismos periodos que los fijos. Un claro ejemplo de estos ingresos son las bonificaciones legales por el salario, como la prima de servicios o los intereses a las cesantías, en Colombia; y rentas fijas que se cobran de forma trimestral, semestral o anual.
             p.mb-5 El término “ingresos” puede tener diferentes interpretaciones, las cuales coinciden en que generan un incremento patrimonial, como consecuencia de incrementos de activos y/o disminución de pasivos. De conformidad con la NIIF 15 (2014), es fundamental tener presente, en la política contable, los siguientes aspectos, frente a la presentación de los ingresos en los estados financieros:
     .row.justify-content-center
       .col-12.d-none.d-xl-block
@@ -84,13 +96,13 @@
           .col-10.bg-color5
             .titulo-sexto.color-acento-contenido
               h5 Tabla 2. Reconocimiento de ingresos
-            .tabla-a.color-acento-contenido.mb-4
+            .tabla-a.color-acento-botones.mb-4
               table
                 thead
                   tr(style="background-color: #3B4454;")
                     th.text-white Cuenta
                     th.text-white Debe
-                    th.text-white Hacer
+                    th.text-white Haber
                 tbody
                   tr(style="background-color: #E8F6FA;")
                     td Venta de inventarios
@@ -133,13 +145,13 @@
           .col-10.bg-color5
             .titulo-sexto.color-acento-contenido
               h5 Tabla 3. Reconocimiento de ingresos #2
-            .tabla-a.color-acento-contenido.mb-4
+            .tabla-a.color-acento-botones.mb-4
               table
                 thead
                   tr(style="background-color: #3B4454;")
                     th.text-white Cuenta
                     th.text-white Debe
-                    th.text-white Hacer
+                    th.text-white Haber
                 tbody
                   tr(style="background-color: #E8F6FA;")
                     td Devoluciones en Venta
@@ -174,8 +186,12 @@
     #t_2_2
     .titulo-segundo
       h2 2.2 Gastos
-    figure(data-aos="fade-left")
-      img(src='@/assets/curso/img27.svg', style="width: auto;").m-auto
+    .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
+      .col-1.d-flex
+        figure
+          img(src='@/assets/curso/img27.svg',).img-style1.m-auto
+      .col-8.bg-color7
+        p.mb-0 Por definición, los gastos son los cargos monetarios en que una persona incurre en el desarrollo normal de su vida o actividad económica. Es decir, son las salidas de dinero (egresos) que realiza para poder vivir de la manera que vive.
     .row.bg-color6.px-5
       .col-12.p-5
         figure(data-aos="fade-right")
@@ -193,23 +209,27 @@
       .col-lg-5
         figure(data-aos="fade-right")
           img(src='@/assets/curso/img29.svg', style="width: 450px;").m-auto
-    .dual-txt-deco
+    .dual-txt-deco.mb-5
       p Aquellos gastos que surgen de la actividad ordinaria incluyen, entre otros, el costo de las ventas, los salarios y la depreciación; usualmente, toman la forma de una salida o disminución del valor de los activos, tales como efectivo y equivalente al efectivo, inventarios o propiedades, planta y equipo. El costo de venta no desaparece con la entrada en vigencia de las Normas Internacionales de Información Financiera, o mejor conocidas como NIIF, pese a que las traducciones de los estándares internacionales no incorporan la palabra “costo”, pero sí utilizan la palabra “gasto”. Esto solo obedece a una interpretación lingüística de una palabra del idioma inglés “expense”, que puede traducirse como “consumo” o “gasto”. Frente a los inventarios, debe entenderse como consumo o gasto de los inventarios destinados para la venta, que no es otra cosa que el tradicional “costo de venta”.
-    figure(data-aos="fade-left")
-      img(src='@/assets/curso/img30.svg', style="width: auto;").m-auto
+    .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
+      .col-1.d-flex
+        figure
+          img(src='@/assets/curso/img30.svg',).img-style4.m-auto
+      .col-8.bg-color10
+        p.mb-0 Las pérdidas también cumplen la definición de gastos y pueden surgir en el curso de las actividades ordinarias de la entidad. Si las pérdidas se reconocen en el estado del resultado integral, habitualmente se presentan por separado, puesto que el conocimiento de estas es útil para la toma de decisiones económicas.
     p A continuación, se muestra un ejercicio de reconocimiento de diferentes tipos de gastos.
     p.mb-5 Se causa nómina del auxiliar contable, así: básico: $1.000.000, días trabajados: 30, H.E.D.O: 15, descuento por libranza: $100.000, ARP nivel: I.
     .row.justify-content-center
       .col-10.bg-color5
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 3. Reconocimiento de ingresos #2
-        .tabla-a.color-acento-contenido.mb-4
+          h5 Tabla 3. Ejercicio tipo de gastos
+        .tabla-a.color-acento-botones.mb-4
           table
             thead
               tr(style="background-color: #3B4454;")
                 th.text-white Cuenta
                 th.text-white Debe
-                th.text-white Hacer
+                th.text-white Haber
             tbody
               tr(style="background-color: #E8F6FA;")
                 td 510506 Sueldo

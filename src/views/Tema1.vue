@@ -82,10 +82,10 @@
             p.mb-4 Teniendo en cuenta este criterio, existen dos tipos de presupuestos:
             ul.lista-ul.ms-4
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p #[b Públicos]: “son elaborados por los diferentes Estados y las administraciones públicas para controlar los gastos y los egresos que realizan las distintas dependencias. Este tipo de presupuestos se elabora con base en los gastos, ya que primero se hace una estimación de las erogaciones que se llevarán a cabo para satisfacer las necesidades públicas, y posteriormente se plantea cómo cubrirlas”. (Alonso, 2020)
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p #[b Privados]: “los elaboran las empresas particulares, quienes primero estiman sus ingresos y después establecen cómo gastar”. (Alonso, 2020)
           .col-lg-5
             figure
@@ -96,10 +96,10 @@
             p.mb-4 Teniendo en cuenta este criterio, existen dos tipos de presupuestos:
             ul.lista-ul.ms-4
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p #[b Principales]: “Son una especie de resumen donde se establecen los puntos estructurales que componen los elementos de la empresa”. (Alonso, 2020)
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p #[b Auxiliares]: “Se muestran las operaciones estimadas de cada uno de los departamentos de la empresa, es decir, forman parte del presupuesto principal.” (Alonso, 2020)
           .col-lg-5
             figure
@@ -110,10 +110,10 @@
             p.mb-4 Teniendo en cuenta este criterio, existen dos tipos de presupuestos:
             ul.lista-ul.ms-4
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p #[b A corto plazo]: si abarca un año o menos.
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p #[b A largo plazo]: si abarca más de un año.
           .col-lg-5
             figure
@@ -124,10 +124,10 @@
             p.mb-4 Teniendo en cuenta este criterio, existen dos tipos de presupuestos:
             ul.lista-ul.ms-4
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p #[b Estimados]: “Son aquellos presupuestos que se elaboran con base en las experiencias del pasado, es decir, de forma empírica, por lo que existe una probabilidad, más o menos razonable, de que suceda lo que se ha estimado”. (Alonso, 2020)
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p #[b Estándar]: “Estos presupuestos se elaboran sobre bases científicas y mediante estudios estadísticos, por lo que el porcentaje de error se reduce significativamente y representan los resultados que se deben obtener”. (Alonso, 2020)
           .col-lg-5
             figure
@@ -138,7 +138,7 @@
       h2 1.4 Diferencia entre presupuestos, flujos de caja y flujo de efectivo
     p.mb-5 Según Jaramillo (2021), un presupuesto, un flujo de caja y un flujo de efectivo se diferencian en lo siguiente:
     .titulo-sexto.color-acento-contenido
-      h5 Tabla 1. Diferencia entre presupuesto, flujo de caja y flujo de efectivo
+      p Tabla 1. Diferencia entre presupuesto, flujo de caja y flujo de efectivo
     .tabla-a.color-acento-botones
       table
         caption Nota. Datos tomados de Jaramillo (2021).
@@ -152,26 +152,26 @@
             td 
               ul.lista-ul
                 li 
-                  i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                  i.fas.fa-angle-right(style="color: #CA4F4E")
                   p Es un plan dirigido a cumplir una meta prevista, que debe cumplirse en determinado tiempo y bajo ciertas condiciones.
             td
               ul.lista-ul
                 li 
-                  i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                  i.fas.fa-angle-right(style="color: #CA4F4E")
                   p El flujo de caja refleja los movimientos financieros y el balance entre ingresos y egresos, tras el análisis de un periodo determinado.
                 li 
-                  i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                  i.fas.fa-angle-right(style="color: #CA4F4E")
                   p El flujo de caja se puede hacer de manera proyectada, con base en tendencias y resultados anteriores, para prever la dinámica de ingresos en el futuro.
                 li 
-                  i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                  i.fas.fa-angle-right(style="color: #CA4F4E")
                   p El flujo de caja evalúa de manera concreta un plazo de interés, para esclarecer los resultados obtenidos durante el mismo.
             td
               ul.lista-ul
                 li 
-                  i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                  i.fas.fa-angle-right(style="color: #CA4F4E")
                   p El flujo de efectivo muestra la disponibilidad de dinero en líneas generales, mostrando el capital de trabajo concreto y actualizado de la empresa.
                 li 
-                  i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                  i.fas.fa-angle-right(style="color: #CA4F4E")
                   p El flujo de efectivo se basa en toda la información financiera (incluso en la histórica).
     separador.mb-5
     #t_1_5

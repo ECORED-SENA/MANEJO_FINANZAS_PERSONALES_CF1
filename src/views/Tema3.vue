@@ -39,7 +39,7 @@
             h4 Paso 1
             ul.lista-ul
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Conformar al interior de la organización el equipo encargado del proyecto de convergencia en NIIF y analizar los estándares aplicables a la entidad, de acuerdo con la naturaleza del negocio y las características especiales de la organización.
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
@@ -49,10 +49,10 @@
             h4 Paso 2
             ul.lista-ul
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Definir las etapas del proyecto de convergencia, sus actividades, el cronograma correspondiente,  los responsables y los recursos que se requieren para llevarlo a cabo.
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Obtener aprobación del plan de acción requerido para mitigar los impactos por parte del órgano social competente.
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
@@ -62,10 +62,10 @@
             h4 Paso 3
             ul.lista-ul
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Evaluar el impacto operacional y tecnológico.
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Modificar o diseñar nuevos sistemas de información y mejoras en el proceso de presentación de informes financieros.
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
@@ -75,10 +75,10 @@
             h4 Paso 4
             ul.lista-ul
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Evaluar los impactos en el recurso humano involucrado.
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Determinar los impactos más relevantes en los estados financieros.
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
@@ -88,10 +88,10 @@
             h4 Paso 5
             ul.lista-ul
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Establecer las acciones necesarias para mitigar los  impactos.
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Revisar y ajustar las políticas contables para adecuarlas a los principios directrices de las NIIF.
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
@@ -101,10 +101,10 @@
             h4 Paso 6
             ul.lista-ul
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Ajustar los manuales de funciones y procedimientos internos, teniendo en cuenta los efectos operacionales y funcionales en los procesos y estructuras.
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Elaboración del balance de apertura.
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
@@ -114,10 +114,10 @@
             h4 Paso 7
             ul.lista-ul
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Obtener aprobación del plan de acción requerido para mitigar los impactos, por parte del órgano social competente.
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Evaluar el impacto operacional y tecnológico.
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
@@ -127,10 +127,10 @@
             h4 Paso 8
             ul.lista-ul
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Modificar o diseñar nuevos sistemas de información y mejoras en el proceso de presentación de informes financieros.
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Obtener aprobación del proyecto y los recursos requeridos, por parte del máximo órgano social.
         .row(titulo="").align-items-center
           .col-lg-4.mb-4.mb-md-0
@@ -140,16 +140,16 @@
             h4 Paso 9
             ul.lista-ul
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Divulgar los principales aspectos del proyecto y los recursos requeridos, por parte del máximo órgano social.
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Divulgar los principales aspectos del proyecto a los responsables de las aéreas involucradas.
               li 
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p.mb-0 Capacitar en los estándares internacionales a los empleados de la compañía que tengan relación con el tema, en lo de su competencia.
     .titulo-sexto.color-acento-contenido
-      h5 Tabla 4. NIIF para las pymes
+      p Tabla 4. NIIF para las pymes
     .tabla-a.color-acento-botones
       table
         thead

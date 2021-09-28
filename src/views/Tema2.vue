@@ -21,7 +21,7 @@
             h4(style="color: #2E9DAA;") Tipos de ingresos
             p.mb-5 Martínez (2016) identifica tres tipos de ingresos, clasificados desde su origen en:
             .titulo-sexto.color-acento-contenido
-              h5 Tipos de ingresos
+              p Tipos de ingresos
             .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
               .col-1.d-flex
                 figure
@@ -72,19 +72,19 @@
               .col-lg-6
                 ul.lista-ul--separador
                   li 
-                    i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                    i.fas.fa-angle-right(style="color: #CA4F4E")
                     p.mb-0 La entidad ha transferido al comprador los riesgos y ventajas derivados de la propiedad de los bienes.
                   li 
-                    i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                    i.fas.fa-angle-right(style="color: #CA4F4E")
                     p.mb-0 La entidad no conserva ninguna restricción sobre la propiedad y el control de los bienes vendidos.
                   li 
-                    i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                    i.fas.fa-angle-right(style="color: #CA4F4E")
                     p.mb-0 El importe de los ingresos de actividades ordinarias puede medirse con fiabilidad.
                   li 
-                    i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                    i.fas.fa-angle-right(style="color: #CA4F4E")
                     p.mb-0 Es probable que la entidad obtenga los beneficios económicos asociados con la transacción.
                   li 
-                    i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                    i.fas.fa-angle-right(style="color: #CA4F4E")
                     p.mb-0 Los costos incurridos, o por incurrir, en relación con la transacción, pueden ser medidos con fiabilidad.
           .col-lg-10
             .cajon.color-secundario.p-4.mb-4
@@ -95,7 +95,7 @@
         .row.justify-content-center
           .col-10.bg-color5
             .titulo-sexto.color-acento-contenido
-              h5 Tabla 2. Reconocimiento de ingresos
+              p Tabla 2. Reconocimiento de ingresos
             .tabla-a.color-acento-botones.mb-4
               table
                 thead
@@ -144,7 +144,7 @@
         .row.justify-content-center
           .col-10.bg-color5
             .titulo-sexto.color-acento-contenido
-              h5 Tabla 3. Reconocimiento de ingresos #2
+              p Tabla 3. Reconocimiento de ingresos #2
             .tabla-a.color-acento-botones.mb-4
               table
                 thead
@@ -222,7 +222,7 @@
     .row.justify-content-center
       .col-10.bg-color5
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 3. Ejercicio tipo de gastos
+          p Tabla 3. Ejercicio tipo de gastos
         .tabla-a.color-acento-botones.mb-4
           table
             thead
@@ -326,24 +326,26 @@
     #t_2_3
     .titulo-segundo
       h2 2.3 Costos y clases
-    .row.align-items-end.justify-content-center.mb-5
-      .col-lg-5
-        .dual-txt-deco1
-          p El costo es el esfuerzo económico que se debe realizar para lograr un objetivo operativo (el pago de salarios, la compra de materiales, la fabricación de un producto, la obtención de fondos para la financiación, la administración de la empresa, etc.).
-      .col-lg-5
-        figure(data-aos="fade-right")
-          img(src='@/assets/curso/img31.svg', style="width: 350px;").m-auto
-    h4 Clases de costos
-    .row.justify-content-center
-      .col-12.d-none.d-xl-block
-        figure(data-aos="fade-left")
-          img(src='@/assets/curso/img32.svg', style="width: auto;").m-auto
-      .col-12.d-lg-block.d-xl-none
-        figure(data-aos="fade-left")
-          img(src='@/assets/curso/img33.svg', style="width: auto;").m-auto
-      .col-12.d-lg-block.d-xl-none
-        figure(data-aos="fade-left")
-          img(src='@/assets/curso/img34.svg', style="width: auto;").m-auto
+    .row.bg-color12.px-5
+      .col-12
+        .row.align-items-end.justify-content-center.mb-5
+          .col-lg-5
+            .dual-txt-deco1
+              p El costo es el esfuerzo económico que se debe realizar para lograr un objetivo operativo (el pago de salarios, la compra de materiales, la fabricación de un producto, la obtención de fondos para la financiación, la administración de la empresa, etc.).
+          .col-lg-5
+            figure(data-aos="fade-right")
+              img(src='@/assets/curso/img31.svg', style="width: 350px;").m-auto
+        h4 Clases de costos
+        .row.justify-content-center.mb-4
+          .col-12.d-none.d-xl-block
+            figure(data-aos="fade-left")
+              img(src='@/assets/curso/img32.svg', style="width: auto;").m-auto
+          .col-12.d-lg-block.d-xl-none
+            figure(data-aos="fade-left")
+              img(src='@/assets/curso/img33.svg', style="width: auto;").m-auto
+          .col-12.d-lg-block.d-xl-none
+            figure(data-aos="fade-left")
+              img(src='@/assets/curso/img34.svg', style="width: auto;").m-auto
 
 </template>
 

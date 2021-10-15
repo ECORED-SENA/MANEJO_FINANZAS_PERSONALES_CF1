@@ -54,10 +54,7 @@
       .col-lg-10
         p.my-5 Como un elemento de los estados financieros, los ingresos incluyen tanto los generados por actividades ordinarias como los de actividades extraordinarias. Para el tema en estudio, los ingresos de actividades ordinarias surgen en el curso de las del desarrollo del objeto social principal de la empresa y adoptan una gran variedad de nombres, tales como ventas, comisiones, intereses, dividendos, regalías y alquileres.
         hr
-        h4(style="color: #2E9DAA;").mt-5 Política contable y medición, reconocimiento con impuestos y retenciones.
-        figure.py-5
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        h4(style="color: #2E9DAA;").my-5 Política contable y medición, reconocimiento con impuestos y retenciones.
         p En el manual de políticas contables correspondiente a los ingresos, la empresa identifica aquellos generados por actividades ordinarias, estableciendo los lineamientos para su reconocimiento en las diferentes formas y medios de pago. De igual forma, las políticas contables en torno a los ingresos establecen la presentación de los mismos en los estados financieros, reflejando de forma separada los de operaciones ordinarias de aquellos de operaciones extraordinarias.
     .row.bg-color1.px-5
       .col-12

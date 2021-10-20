@@ -64,7 +64,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Conceptualización de ingresos, gastos',
+        titulo: 'Conceptualización de ingresos, gastos y costos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -225,7 +225,7 @@ export default {
     {
       termino: 'Estados financieros',
       significado:
-        'representación estructurada de la situación financiera, el rendimiento financiero y los flujos de efectivo de la Compañía',
+        'representación estructurada de la situación financiera, el rendimiento financiero y los flujos de efectivo de la compañía.',
     },
     {
       termino: 'Estimación',
@@ -265,7 +265,7 @@ export default {
     {
       termino: 'Patrimonio',
       significado:
-        'Participación residual en los activos de la compañía, una vez deducidos todos los pasivos.  El patrimonio está formado por el conjunto de bienes, derechos y obligaciones pertenecientes a la Compañía, y que constituyen los medios económicos y financieros a través de los cuales esta puede cumplir con sus fines sociales.',
+        'Participación residual en los activos de la compañía, una vez deducidos todos los pasivos.  El patrimonio está formado por el conjunto de bienes, derechos y obligaciones pertenecientes a la compañía, y que constituyen los medios económicos y financieros a través de los cuales esta puede cumplir con sus fines sociales.',
     },
     {
       termino: 'Valor razonable',
@@ -407,6 +407,16 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

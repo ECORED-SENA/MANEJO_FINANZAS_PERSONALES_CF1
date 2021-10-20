@@ -28,7 +28,7 @@
             figure
               img(src='@/assets/curso/img6.svg',).img-style1.m-auto
           .col-8.bg-color7
-            p.mb-0 Es de anotar que, dentro de una organización o de una empresa familiar, los presupuestos deben ajustarse a las normas contables mínimas; en el caso de las empresas, a las Normas Internacionales de Información Financiera NIIF, las cuales regulan el nuevo marco normativo contable en el país.
+            p.mb-0 Es de anotar que, dentro de una organización o de una empresa familiar, los presupuestos deben ajustarse a las normas contables mínimas; en el caso de las empresas, a las Normas Internacionales de Información Financiera (NIIF), las cuales regulan el nuevo marco normativo contable en el país.
         #t_1_1
         .titulo-segundo
           h2 1.1 Los presupuestos y la contabilidad
@@ -53,7 +53,7 @@
           img(src='@/assets/curso/img8.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .text-white.p-4
-              p.my-5.text-white Los objetivos del presupuesto en una organización o en una familia deben cumplir algunos parámetros definidos, como políticas, parámetros, fusiones contables, entre otros, que a su vez marcan un derrotero a seguir para un equilibrio contable y presupuestal.
+              p.my-5.text-white Los objetivos del presupuesto en una organización o en una familia deben cumplir algunos parámetros definidos, como políticas, fusiones contables, entre otros, que a su vez marcan un derrotero a seguir para un equilibrio contable y presupuestal.
       .col-lg-5.mb-5.mb-lg-0
         .tarjeta-avatar(data-aos="fade-left")
           img(src='@/assets/curso/img9.svg' alt='AvatarTop')

@@ -6,7 +6,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Conceptualización de ingresos, gastos
+      h1 Conceptualización de ingresos, gastos y costos
     figure.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/img6.png', style="width: auto;").m-auto
     .row.bg-color4.px-5
